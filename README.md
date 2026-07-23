@@ -1,7 +1,7 @@
 ## Hello!
 
 :computer:
-<a>https://github-profile-state-viewer.netlify.app/?user=pwm-git</a> 
+
 <br>
 
 <br>
